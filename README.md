@@ -1,5 +1,5 @@
 # Data-Science-Program-Set-2
-Basic Source Codes!!!!
+Pre-Processing Techniques programs and KNN algorithm!!!!
 --> The programs is demonstrate on the techniques of pre-processing
 --> Quantile ----which means it is used to spilt the values from datasets into equal parts.
 --> MinMaxScaler ------It is used for min and max values from the datasets.
